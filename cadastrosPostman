@@ -1,0 +1,25 @@
+{
+    "firstName": "Iuri",
+    "lastName": "Neviton",
+    "cpf": "064.848.843-82",
+    "birthDate": "30-07-1996",
+    "phones": [
+        {
+            "type": "MOBILE",
+            "number": "(85)989387977"
+        }
+    ]
+}
+
+{
+    "firstName": "Nancelho",
+    "lastName": "Gadelha",
+    "cpf": "073.902.893-68",
+    "birthDate": "14-06-1957",
+    "phones": [
+        {
+            "type": "MOBILE",
+            "number": "(85)998152320"
+        }
+    ]
+}

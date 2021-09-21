@@ -11,6 +11,13 @@ Durante a sessão, serão desenvolvidos e abordados os seguintes tópicos:
 * Desenvolvimento de testes unitários para validação das funcionalidades
 * Implantação do sistema na nuvem através do Heroku
 
+Deploy no Heroku:
+
+```
+https://personapi-nevitoniuri.herokuapp.com/
+```
+
+
 Para executar o projeto no terminal, digite o seguinte comando:
 
 ```shell script
